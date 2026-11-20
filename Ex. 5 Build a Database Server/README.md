@@ -1,10 +1,8 @@
 # Lab 5 – Build a Database Server (AWS)
-
 ## Author
-
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
+* **Name**: DEEPIKA G
+* **Register Number**: 212224040060
+* **Date of Submission**: 20-11-2026
 
 ---
 
@@ -83,32 +81,32 @@ Test the database server by connecting to it locally or remotely and performing 
 ## Workflow (Student Explanation)
 
 (Write the steps you followed in your own words)
-
-1. ---
-2. ---
-3. ---
-4. ---
-5. ---
-
----
+1. I launched an EC2 instance using Amazon Linux 2.
+2. I configured the security group to allow SSH and database access.
+3. I connected to the EC2 instance using SSH.
+4. I installed and started the database server.
+5. I created a sample database, inserted records, and tested the connection.
 
 ## Output Screenshots (Attach 3)
 
 ### Screenshot 1: EC2 Instance for Database Server
 
 (Insert Screenshot Here)
+<img width="941" height="1038" alt="image" src="https://github.com/user-attachments/assets/c4a01c4d-23a4-4083-b7a8-1a26beae138d" />
 
 ---
 
 ### Screenshot 2: Database Service Running
 
 (Insert Screenshot Here)
+<img width="955" height="1030" alt="image" src="https://github.com/user-attachments/assets/fe808c6f-e26a-4aeb-89a0-1b10764f27fa" />
 
 ---
 
 ### Screenshot 3: Sample Database and Table
 
 (Insert Screenshot Here)
+<img width="943" height="1032" alt="image" src="https://github.com/user-attachments/assets/f75f766c-ea6b-4d7c-b2c3-18c702ba62b5" />
 
 ---
 
